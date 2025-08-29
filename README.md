@@ -1,4 +1,4 @@
-# StreamQode Boilerplate
+# Stream Qode Boilerplate
 
 The **Boilerplate repository** is the starting point for initial code samples, patterns, and templates used across the Stream Qode platform.
 
