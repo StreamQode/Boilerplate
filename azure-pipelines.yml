@@ -1,0 +1,11 @@
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- checkout: self
+
+- script: echo "Hello from StreamQode boilerplate pipeline!"
+  displayName: 'Run sample script'
